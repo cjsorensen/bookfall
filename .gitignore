@@ -1,0 +1,5 @@
+*.sass
+sass/_normalize.scss sass/_settings.scss sass/app.scss
+connections/*
+*.sass-cache
+
